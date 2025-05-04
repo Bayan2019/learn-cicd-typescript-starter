@@ -6,6 +6,10 @@ This repo contains the typescript starter code for the "Notely" application for 
 
 Make sure you're on Node version 18+.
 
+```bash
+node -v
+```
+
 Create a `.env` file in the root of the project with the following contents:
 
 ```bash
